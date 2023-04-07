@@ -1,0 +1,11 @@
+.loginpage{
+    width: 1200px;height: 700px;
+}
+
+.loginform{
+    position: absolute;width: 25%;top: 25%;left: 37.5%;
+    padding: 2.5%;background-color: #9dff9f;
+    box-shadow: 1px 1px 100px 1px lightgreen;
+    border: 1px solid lightgreen;
+    border-radius: 10px;
+}
